@@ -1,0 +1,5 @@
+cd dc
+touch dc/justice_league
+cp */batman.txt
+cp */superman.txt
+

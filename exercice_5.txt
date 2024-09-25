@@ -1,0 +1,5 @@
+cd dc
+touch dc/justice_league
+cp */iron_man.txt
+cp */captain america.txt
+

@@ -1,0 +1,1 @@
+cp black_window.txt avengers && cp wonder_woman.txt justice.league
